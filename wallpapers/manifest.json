@@ -1,0 +1,29 @@
+{
+  "generated": "placeholder",
+  "items": [
+    {
+      "id": "mountain-dusk",
+      "src": "/wallpapers/mountain-dusk.webp",
+      "category": "山",
+      "title": "山暮",
+      "color": "#3a4a63",
+      "credit": "程序生成占位图"
+    },
+    {
+      "id": "forest-mist",
+      "src": "/wallpapers/forest-mist.webp",
+      "category": "森林",
+      "title": "雾林",
+      "color": "#3f5b4a",
+      "credit": "程序生成占位图"
+    },
+    {
+      "id": "sea-dawn",
+      "src": "/wallpapers/sea-dawn.webp",
+      "category": "海",
+      "title": "海晓",
+      "color": "#c8b49a",
+      "credit": "程序生成占位图"
+    }
+  ]
+}
